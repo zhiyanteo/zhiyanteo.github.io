@@ -1,4 +1,4 @@
-# Test Project; Please Ignore
+# Instructions: Working with HTML, CS, JS
 
 Git testing with:
 
